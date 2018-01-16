@@ -1,2 +1,2 @@
 # medcare
-College projevt
+College project
